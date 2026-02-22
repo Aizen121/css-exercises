@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.odd {
+    color: #000000;
+    background-color: rgb(255, 166, 166);
+}
+#number2 {
+    color:#3005ca;
+    font-size: 30px;
+}
+
+.odd{
+    font-size: 18px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#number4 {
+    font-weight: bold;
+    background-color: #40ee65;
+}
